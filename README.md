@@ -1,4 +1,4 @@
-# Project 1: Constrained Satisfaction & Backtracking
+# Project: Constrained Satisfaction & Backtracking
 ___
 
 ## Introduction
